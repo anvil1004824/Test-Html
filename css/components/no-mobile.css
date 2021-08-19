@@ -16,7 +16,7 @@
     display: none;
   }
 }
-#no-landscape {
+/*#no-landscape {
   position: absolute;
   z-index: 98;
   height: 100vh;
@@ -33,3 +33,4 @@
     display: none;
   }
 }
+*/
