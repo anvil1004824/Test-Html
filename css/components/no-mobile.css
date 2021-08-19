@@ -16,6 +16,9 @@
     display: none;
   }
 }
+#no-landscape {
+  display: none;
+}
 @media (orientation: landscape) {
   #no-landscape {
     position: absolute;
